@@ -13,7 +13,6 @@ def info():
     	'time': datetime.datetime.now().strftime("%I:%M:%S%p  on %B %d, %Y"),
     	'hostname': socket.gethostname(),
         'message': 'You are doing great, little Boy! <3',
-	'message': 'Ok, this is a new change!',
         'deployed_on': 'kubernetes'
     })
 
