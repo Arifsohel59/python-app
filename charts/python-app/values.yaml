@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: soheldockerhub/python-app
   pullPolicy: IfNotPresent
-  tag: 92d6f6
+  tag: 98ce80
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
